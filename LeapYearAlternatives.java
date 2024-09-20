@@ -57,7 +57,6 @@ public class LeapYearAlternatives{
         // if(year % 4 == 0)
         // if(year % 100 != 0)
         // if(year % 400 == 0)
-        // else 
         
         //WHEN YOU DO THIS ERASE THIS LINE -- 
         //WE NEED SO YOU CAN RUN THE OTHERS
